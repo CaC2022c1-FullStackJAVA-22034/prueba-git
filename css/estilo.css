@@ -6,3 +6,11 @@ body {
 p {
     color: darkblue;
 }
+
+ul li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+}
